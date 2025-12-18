@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OwaisShaikh1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/OwaisShaikh1?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/followers/OwaisShaikh1? label=Followers&style=social" alt="followers" />
 </p>
 
 ---
@@ -26,10 +26,10 @@
 ## 🛠️ Tech Stack & Skills
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB? style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E? style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2? style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frontend
@@ -39,7 +39,7 @@
 
 ### Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688? style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -56,18 +56,31 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=OwaisShaikh1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisShaikh1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OwaisShaikh1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/? user=OwaisShaikh1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com? user=OwaisShaikh1&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OwaisShaikh1&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisShaikh1&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=OwaisShaikh1&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OwaisShaikh1&custom_title=Owais's%20Contribution%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true&hide_border=true)
 
 ---
 
@@ -78,6 +91,13 @@
 
 **Tech Stack:** `Django` `Python` `REST API` `HTML/CSS` `JavaScript`
 
+**Key Features:**
+- 🔐 Teacher authentication system
+- 📨 Sender ID management
+- 👥 Group management functionality
+- ✅ Template approval system
+- 📊 Comprehensive reporting
+
 ---
 
 ### 🌐 [DR1 - Django React Learning](https://github.com/OwaisShaikh1/DR1)
@@ -85,37 +105,49 @@ Full-stack web application combining **React** frontend with **Django** backend.
 
 **Tech Stack:** `React` `Django` `REST API` `JavaScript` `Python`
 
+**Learning Focus:**
+- ⚛️ React component architecture
+- 🔄 Django REST framework
+- 🔗 Frontend-Backend integration
+- 📡 API development
+
 ---
 
 ### 📝 [Flutter Writer](https://github.com/OwaisShaikh1/Flutter-writer)
-Mobile application developed with **Flutter** for cross-platform compatibility.  Exploring mobile development and Flutter framework capabilities.
+Mobile application developed with **Flutter** for cross-platform compatibility. Exploring mobile development and Flutter framework capabilities.
 
 **Tech Stack:** `Flutter` `Dart` `Mobile Development`
+
+**Features:**
+- 📱 Cross-platform (iOS & Android)
+- 🎨 Modern UI/UX design
+- ⚡ Fast and responsive
 
 ---
 
 ### ⚙️ [DevOps1](https://github.com/OwaisShaikh1/DevOps1)
-DevOps learning and experimentation repository.  Exploring CI/CD, containerization, and modern DevOps practices.
+DevOps learning and experimentation repository. Exploring CI/CD, containerization, and modern DevOps practices.
 
 **Tech Stack:** `DevOps` `Docker` `CI/CD`
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OwaisShaikh1&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+**Learning Areas:**
+- 🐳 Container orchestration
+- 🔄 CI/CD pipelines
+- ☁️ Cloud deployment
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔥 Deepening knowledge in **full-stack development** with React and Django
-- 📱 Building cross-platform mobile apps with **Flutter**
-- 🚀 Exploring **DevOps** practices and cloud technologies
-- 🧠 Learning advanced **API development** and microservices architecture
-- 🌟 Contributing to open-source projects
+```javascript
+const owais = {
+    learning: ["React", "Django", "Flutter", "DevOps"],
+    interests: ["Full-Stack Development", "Mobile Apps", "Cloud Technologies"],
+    currentlyWorking: "Building real-world applications",
+    funFact: "I love combining different tech stacks! ",
+    lookingFor: "Open source collaboration opportunities"
+};
+```
 
 ---
 
@@ -130,14 +162,48 @@ DevOps learning and experimentation repository.  Exploring CI/CD, containerizati
 
 ---
 
-## 💭 Dev Quote
+## 💡 Quick Stats
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
+<div align="center">
+
+| 🎯 **Focus Areas** | 💻 **Primary Stack** | 🚀 **Current Goal** |
+|: ---:|:---:|:---:|
+| Full-Stack Development | Django + React | Master DevOps |
+| Mobile Development | Flutter | Build Production Apps |
+| Backend APIs | Python + REST | Cloud Deployment |
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts & Insights
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 Building scalable applications with Django and React
+- 🚀 Exploring Flutter for cross-platform mobile development
+- ⚙️ DevOps best practices for modern web applications
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<div align="center">
+
+### 🌟 Show some ❤️ by starring some of my repositories! 🌟
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/OwaisShaikh1">OwaisShaikh1</a> - Let's build something amazing together!</i>
+  <br/>
+  <i>💼 Open for collaborations and interesting projects</i>
 </p>
