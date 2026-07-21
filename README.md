@@ -62,25 +62,31 @@
 
 ### 🛡️ [CyberSentinel](https://github.com/Zaheen-Siddiqui/CyberSentinel) *(group project)*
 A multi-model network intrusion detection system trained on the NSL-KDD dataset, built as part of the core team. A two-stage pipeline first classifies traffic as normal or attack, then breaks down the attack category (DoS, Probe, R2L, U2R) using RandomForest, SVM, and XGBoost, with a Flask/React dashboard for live model comparison.
+
 **Results:** All three models trained to over 99% accuracy on the training data (RandomForest and XGBoost: 99.91%, SVM: 99.16%). On unseen test traffic, which includes attack types the models weren't trained on, XGBoost generalized best with **78.99% accuracy** — the most realistic measure of real-world performance.
+
 **Stack:** `Python` `scikit-learn` `XGBoost` `Flask` `React`
 
 ### ✍️ Writer — [Frontend](https://github.com/OwaisShaikh1/Flutter-writer) & [Backend](https://github.com/OwaisShaikh1/FlutterWriterBackend)
 An offline-first literature/writing platform. The Flutter client lets users read and author chapters, writing to a local Drift (SQLite) database first and queuing changes for background sync once connectivity returns — so reading and drafting keep working offline. State is managed through dedicated providers (`AuthProvider`, `LiteratureProvider`, `SyncProvider`), and content is drafted in markdown.
 
 The Node.js/Express + MySQL backend exposes REST routes for authentication, literature items, and chapters (`/register`, `/login`, `/items`, `/chapters`, etc.), with JWT-based auth, bcrypt password hashing, and ownership checks so only an author can edit or delete their own work. It also serves cover/content images from static paths.
+
 **Stack:** `Flutter` `Dart` `Node.js` `Express` `MySQL` `JWT`
 
 ### 📱 [SmsDBIT](https://github.com/OwaisShaikh1/SmsDBIT)
 A bulk SMS delivery portal for an organization, with teacher login, sender-ID management, group management, and a template-approval workflow.
+
 **Stack:** `HTML/CSS` `JavaScript`
 
 ### 💰 [FinanceFlow](https://github.com/OwaisShaikh1/FinanceFlow)
 A finance and tax-management web platform ("CA Assistant"), built to help individuals and small businesses track income, expenses, invoices, and tax deadlines from a single dashboard.
+
 **Stack:** `Next.js` `TypeScript` `Node.js` `MongoDB`
 
 ### 🎓 [SmartScore](https://github.com/OwaisShaikh1/pi5mini)
 A web application for student evaluation and scoring — enabling quizzes and exams, and tracking student performance across multiple subjects and departments, with role-based authentication and authorization.
+
 **Stack:** `Python` `JavaScript` `CSS`
 
 ### 🎲 Games & Algorithms — [Sudoku](https://github.com/OwaisShaikh1/Sudoku) · [Checkers (Rust)](https://github.com/OwaisShaikh1/checkers_rust) · [Chess Bots](https://github.com/OwaisShaikh1/chessbots)
@@ -88,6 +94,7 @@ Side projects exploring classic board-game logic and computationally interesting
 - **Sudoku** — solver built using **backtracking**
 - **Checkers** — engine in Rust
 - **Chess Bots** — bots in Python/C++ using **minimax with alpha-beta pruning** and **bitboard** board representations, evaluated against engines like Stockfish
+  
 **Stack:** `TypeScript` `Rust` `Python` `C++`
 
 ---
