@@ -1,204 +1,116 @@
-<h1 align="center">👋 Hi, I'm Owais Shaikh</h1>
-<h3 align="center">Full-Stack Developer | Mobile Dev Enthusiast | DevOps Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Mobile+App+Developer;DevOps+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
-</p>
+# Hi, I'm Owais Shaikh 👋
 
----
+### Full-Stack Developer building web apps, mobile apps, and dev tooling
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owais-shaikh-8bb55333a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owaisshaikh376@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OwaisShaikh1)
 
-- 🔭 I'm currently working on **full-stack web applications** and **mobile development**
-- 🌱 Learning and experimenting with **React**, **Django**, **Flutter**, and **DevOps**
-- 💡 Passionate about building real-world applications that solve actual problems
-- 🎯 Focus areas: **Web Development**, **Mobile Apps**, **Backend APIs**, **DevOps**
-- 💬 Ask me about **Python, Django, React, Flutter, or DevOps**
-- ⚡ Fun fact: I love combining different tech stacks to create powerful solutions! 
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## About Me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB? style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E? style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2? style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
+- 🛡️ Core team member on **CyberSentinel**, a group ML project for network intrusion detection
+- ✅ Built **FinanceFlow**, a finance/tax management platform (Next.js, TypeScript, Node.js)
+- 🎓 Shipped **SmartScore**, a student evaluation & exam-tracking platform, and **Writer**, an offline-first Flutter writing app with a Node/MySQL backend
+- 🎲 Explore algorithms for fun — backtracking for Sudoku, alpha-beta pruning for Checkers, bitboards for Chess
+- 📍 Based in Mumbai, India
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend
+**Frameworks & Libraries**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688? style=for-the-badge&logo=fastapi&logoColor=white)
+**Databases & Tools**
 
-### DevOps & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
 ---
 
-## 📊 GitHub Statistics
+## Featured Projects
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OwaisShaikh1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+### 🛡️ [CyberSentinel](https://github.com/Zaheen-Siddiqui/CyberSentinel) *(group project)*
+A multi-model network intrusion detection system trained on the NSL-KDD dataset, built as part of the core team. A two-stage pipeline first classifies traffic as normal or attack, then breaks down the attack category (DoS, Probe, R2L, U2R) using RandomForest, SVM, and XGBoost, with a Flask/React dashboard for live model comparison.
+**Results:** RandomForest and XGBoost both hit **99.91% training accuracy** (SVM: 99.16%); on the held-out KDDTest+ set, XGBoost generalized best at **78.99% accuracy**.
+**Stack:** `Python` `scikit-learn` `XGBoost` `Flask` `React`
 
-![GitHub Streak](https://streak-stats.demolab.com? user=OwaisShaikh1&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisShaikh1&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=OwaisShaikh1&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OwaisShaikh1&custom_title=Owais's%20Contribution%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true&hide_border=true)
-
----
-
-## 🔥 Featured Projects
+### ✍️ Writer — [Frontend](https://github.com/OwaisShaikh1/Flutter-writer) & [Backend](https://github.com/OwaisShaikh1/FlutterWriterBackend)
+An offline-first literature/writing platform. The Flutter client supports reading and authoring with local-first storage (Drift/SQLite) and a queued sync engine; the Node.js/Express + MySQL backend handles JWT authentication, literature and chapter persistence, and image serving.
+**Stack:** `Flutter` `Dart` `Node.js` `Express` `MySQL` `JWT`
 
 ### 📱 [SmsDBIT](https://github.com/OwaisShaikh1/SmsDBIT)
-**SMS Portal System** - A comprehensive messaging portal with teacher login, sender ID management, group management, and template approval features. Built with Django backend and modern UI. 
+An SMS notification portal built for a college setting, with teacher login, sender-ID management, group management, and a template-approval workflow.
+**Stack:** `HTML/CSS` `JavaScript`
 
-**Tech Stack:** `Django` `Python` `REST API` `HTML/CSS` `JavaScript`
+### 💰 [FinanceFlow](https://github.com/OwaisShaikh1/FinanceFlow)
+A finance and tax-management web platform ("CA Assistant"), built to help individuals and small businesses track income, expenses, invoices, and tax deadlines from a single dashboard.
+**Stack:** `Next.js` `TypeScript` `Node.js` `MongoDB`
 
-**Key Features:**
-- 🔐 Teacher authentication system
-- 📨 Sender ID management
-- 👥 Group management functionality
-- ✅ Template approval system
-- 📊 Comprehensive reporting
+### 🎓 [SmartScore](https://github.com/OwaisShaikh1/pi5mini)
+A web application for student evaluation and scoring — enabling quizzes and exams, and tracking student performance across multiple subjects and departments, with role-based authentication and authorization.
+**Stack:** `Python` `JavaScript` `CSS`
 
----
-
-### 🌐 [DR1 - Django React Learning](https://github.com/OwaisShaikh1/DR1)
-Full-stack web application combining **React** frontend with **Django** backend.  A project focused on mastering modern full-stack development. 
-
-**Tech Stack:** `React` `Django` `REST API` `JavaScript` `Python`
-
-**Learning Focus:**
-- ⚛️ React component architecture
-- 🔄 Django REST framework
-- 🔗 Frontend-Backend integration
-- 📡 API development
+### 🎲 Games & Algorithms — [Sudoku](https://github.com/OwaisShaikh1/Sudoku) · [Checkers (Rust)](https://github.com/OwaisShaikh1/checkers_rust) · [Chess Bots](https://github.com/OwaisShaikh1/chessbots)
+Side projects exploring classic board-game logic and computationally interesting problems, built out of curiosity about search and game-tree algorithms:
+- **Sudoku** — solver built using **backtracking**
+- **Checkers** — engine in Rust using the **minimax algorithm with alpha-beta pruning**
+- **Chess Bots** — bots in Python/C++ using **bitboard** board representations, evaluated against engines like Stockfish
+**Stack:** `TypeScript` `Rust` `Python` `C++`
 
 ---
 
-### 📝 [Flutter Writer](https://github.com/OwaisShaikh1/Flutter-writer)
-Mobile application developed with **Flutter** for cross-platform compatibility. Exploring mobile development and Flutter framework capabilities.
-
-**Tech Stack:** `Flutter` `Dart` `Mobile Development`
-
-**Features:**
-- 📱 Cross-platform (iOS & Android)
-- 🎨 Modern UI/UX design
-- ⚡ Fast and responsive
-
----
-
-### ⚙️ [DevOps1](https://github.com/OwaisShaikh1/DevOps1)
-DevOps learning and experimentation repository. Exploring CI/CD, containerization, and modern DevOps practices.
-
-**Tech Stack:** `DevOps` `Docker` `CI/CD`
-
-**Learning Areas:**
-- 🐳 Container orchestration
-- 🔄 CI/CD pipelines
-- ☁️ Cloud deployment
-
----
-
-## 🎯 Current Focus
-
-```javascript
-const owais = {
-    learning: ["React", "Django", "Flutter", "DevOps"],
-    interests: ["Full-Stack Development", "Mobile Apps", "Cloud Technologies"],
-    currentlyWorking: "Building real-world applications",
-    funFact: "I love combining different tech stacks! ",
-    lookingFor: "Open source collaboration opportunities"
-};
-```
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/OwaisShaikh1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/owais-shaikh-8bb55333a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  /*<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>*/
-  <a href="owaisshaikh376@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-## 💡 Quick Stats
+## GitHub Stats
 
 <div align="center">
 
-| 🎯 **Focus Areas** | 💻 **Primary Stack** | 🚀 **Current Goal** |
-|: ---:|:---:|:---:|
-| Full-Stack Development | Django + React | Master DevOps |
-| Mobile Development | Flutter | Build Production Apps |
-| Backend APIs | Python + REST | Cloud Deployment |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=OwaisShaikh1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisShaikh1&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=OwaisShaikh1&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 📝 Latest Blog Posts & Insights
+## Let's Connect
 
-<!-- BLOG-POST-LIST:START -->
-- 🔥 Building scalable applications with Django and React
-- 🚀 Exploring Flutter for cross-platform mobile development
-- ⚙️ DevOps best practices for modern web applications
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
+<p align="left">
+<a href="https://www.linkedin.com/in/owais-shaikh-8bb55333a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:owaisshaikh376@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 <div align="center">
-
-### 🌟 Show some ❤️ by starring some of my repositories! 🌟
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
+<sub>⭐ Open to collaborations and interesting projects — feel free to reach out.</sub>
 </div>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/OwaisShaikh1">OwaisShaikh1</a> - Let's build something amazing together!</i>
-  <br/>
-  <i>💼 Open for collaborations and interesting projects</i>
-</p>
